@@ -1,2 +1,2 @@
 import librosa 
-import matplotlib.pyplo
+import matplotlib.pyplot as pl
