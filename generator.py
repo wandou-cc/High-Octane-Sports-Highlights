@@ -8,4 +8,4 @@ from moviepy.video.io.ffmpeg_tools import ffmpeg_extract_subclip
 from moviepy.editor import VideoFileClip, concatenate_videoclips
 
 
-#Load the audio file of the spo
+#Load the audio file of the sports cli
