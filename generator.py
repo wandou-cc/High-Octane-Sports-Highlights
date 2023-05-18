@@ -10,4 +10,4 @@ from moviepy.editor import VideoFileClip, concatenate_videoclips
 
 #Load the audio file of the sports clip.
 filename='M27 KKR vs RCB  – Match Highlights.mp3' #Enter your audio file name of match here. .wav,.mp3, etc. are supported.
-vid, samp
+vid, sample_rate =
