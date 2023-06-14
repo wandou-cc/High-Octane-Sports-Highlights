@@ -13,4 +13,5 @@ filename='M27 KKR vs RCB  – Match Highlights.mp3' #Enter your audio file name 
 vid, sample_rate = librosa.load(filename,sr=16000)
 print(int(librosa.get_duration(vid, sample_rate)/60))
 
-#Breaking down video into chunks of 5 seconds so that rise in energy can be found
+#Breaking down video into chunks of 5 seconds so that rise in energy can be found.
+chunk_s
