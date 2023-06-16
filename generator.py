@@ -15,4 +15,4 @@ print(int(librosa.get_duration(vid, sample_rate)/60))
 
 #Breaking down video into chunks of 5 seconds so that rise in energy can be found.
 chunk_size=5 
-window_l
+window_length = c
