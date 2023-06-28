@@ -17,4 +17,5 @@ print(int(librosa.get_duration(vid, sample_rate)/60))
 chunk_size=5 
 window_length = chunk_size * sample_rate
 
-#seeing an audio sample and it's time-amplitude gra
+#seeing an audio sample and it's time-amplitude graph
+a=v
