@@ -18,4 +18,4 @@ chunk_size=5
 window_length = chunk_size * sample_rate
 
 #seeing an audio sample and it's time-amplitude graph
-a=vid[5*win
+a=vid[5*window_
