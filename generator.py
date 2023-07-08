@@ -20,4 +20,4 @@ window_length = chunk_size * sample_rate
 #seeing an audio sample and it's time-amplitude graph
 a=vid[5*window_length:6*window_length] 
 ipd.Audio(a, rate=sample_rate)
-energy = sum(a
+energy = sum(abs(a**2)
