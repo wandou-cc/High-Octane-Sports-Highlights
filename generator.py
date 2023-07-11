@@ -21,4 +21,4 @@ window_length = chunk_size * sample_rate
 a=vid[5*window_length:6*window_length] 
 ipd.Audio(a, rate=sample_rate)
 energy = sum(abs(a**2))
-pr
+print(
