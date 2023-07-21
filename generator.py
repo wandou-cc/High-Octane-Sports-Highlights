@@ -22,4 +22,5 @@ a=vid[5*window_length:6*window_length]
 ipd.Audio(a, rate=sample_rate)
 energy = sum(abs(a**2))
 print(energy)
-fig = plt.figure(figsize=(14, 8))
+fig = plt.figure(figsize=(14, 8)) 
+ax1 
