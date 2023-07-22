@@ -23,4 +23,4 @@ ipd.Audio(a, rate=sample_rate)
 energy = sum(abs(a**2))
 print(energy)
 fig = plt.figure(figsize=(14, 8)) 
-ax1 = fig.add_subpl
+ax1 = fig.add_subplot(21
