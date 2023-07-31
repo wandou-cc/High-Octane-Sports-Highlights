@@ -26,4 +26,6 @@ fig = plt.figure(figsize=(14, 8))
 ax1 = fig.add_subplot(211) 
 ax1.set_xlabel('Time') 
 ax1.set_ylabel('Amplitude') 
-ax1.pl
+ax1.plot(a)
+
+#Pl
