@@ -28,4 +28,4 @@ ax1.set_xlabel('Time')
 ax1.set_ylabel('Amplitude') 
 ax1.plot(a)
 
-#Pl
+#Plotting s
