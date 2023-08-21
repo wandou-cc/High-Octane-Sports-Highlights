@@ -30,3 +30,4 @@ ax1.plot(a)
 
 #Plotting short time energy distribution histogram of all chunks
 energy = np.array([sum(abs(vid[i:i+window_length]**2)) for i in range(0, len(vid), window_length)])
+plt.his
