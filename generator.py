@@ -32,4 +32,4 @@ ax1.plot(a)
 energy = np.array([sum(abs(vid[i:i+window_length]**2)) for i in range(0, len(vid), window_length)])
 plt.hist(energy) 
 plt.show()
-#Close graphs for progress of pr
+#Close graphs for progress of program
