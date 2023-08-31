@@ -33,3 +33,5 @@ energy = np.array([sum(abs(vid[i:i+window_length]**2)) for i in range(0, len(vid
 plt.hist(energy) 
 plt.show()
 #Close graphs for progress of program
+
+#Findin
