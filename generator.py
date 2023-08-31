@@ -34,4 +34,4 @@ plt.hist(energy)
 plt.show()
 #Close graphs for progress of program
 
-#Findin
+#Finding and 
