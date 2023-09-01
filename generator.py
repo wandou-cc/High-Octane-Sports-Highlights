@@ -34,4 +34,4 @@ plt.hist(energy)
 plt.show()
 #Close graphs for progress of program
 
-#Finding and setting th
+#Finding and setting threshold 
