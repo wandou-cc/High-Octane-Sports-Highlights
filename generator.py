@@ -34,4 +34,4 @@ plt.hist(energy)
 plt.show()
 #Close graphs for progress of program
 
-#Finding and setting threshold value of commentator and audience nois
+#Finding and setting threshold value of commentator and audience noise a
