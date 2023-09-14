@@ -34,4 +34,5 @@ plt.hist(energy)
 plt.show()
 #Close graphs for progress of program
 
-#Finding and setting threshold value of commentator and audience noise above which we want to include portion in highligh
+#Finding and setting threshold value of commentator and audience noise above which we want to include portion in highlights.
+df=pd.
