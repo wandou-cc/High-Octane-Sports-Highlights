@@ -40,4 +40,5 @@ thresh=300
 row_index=0
 for i in range(len(energy)):
 	value=energy[i]
-	if(value>=thresh)
+	if(value>=thresh):
+		i
