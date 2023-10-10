@@ -41,4 +41,4 @@ row_index=0
 for i in range(len(energy)):
 	value=energy[i]
 	if(value>=thresh):
-		i=np.where(energy ==
+		i=np.where(energy == value
