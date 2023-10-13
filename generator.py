@@ -43,4 +43,4 @@ for i in range(len(energy)):
 	if(value>=thresh):
 		i=np.where(energy == value)[0]
 		df.loc[row_index,'energy']=value
-		df.loc[row_ind
+		df.loc[row_index,'
