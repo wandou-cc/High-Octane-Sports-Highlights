@@ -44,4 +44,4 @@ for i in range(len(energy)):
 		i=np.where(energy == value)[0]
 		df.loc[row_index,'energy']=value
 		df.loc[row_index,'start']=i[0] * 5
-		df.loc[row_inde
+		df.loc[row_index,'end']=(
