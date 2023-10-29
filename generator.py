@@ -47,4 +47,4 @@ for i in range(len(energy)):
 		df.loc[row_index,'end']=(i[0]+1) * 5
 		row_index= row_index + 1
 
-#Merge consecut
+#Merge consecutive ti
