@@ -48,3 +48,4 @@ for i in range(len(energy)):
 		row_index= row_index + 1
 
 #Merge consecutive time intervals of audio clips into one.
+tem
