@@ -50,4 +50,4 @@ for i in range(len(energy)):
 #Merge consecutive time intervals of audio clips into one.
 temp=[]
 i,j,n=0,0,len(df) - 1
-whil
+while(i<n
