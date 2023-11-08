@@ -51,4 +51,5 @@ for i in range(len(energy)):
 temp=[]
 i,j,n=0,0,len(df) - 1
 while(i<n):
-	j=
+	j=i+1
+	while
