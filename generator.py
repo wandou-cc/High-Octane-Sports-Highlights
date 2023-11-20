@@ -55,4 +55,5 @@ while(i<n):
 	while(j<=n):
 		if(df['end'][i] == df['start'][j]):
 			df.loc[i,'end'] = df.loc[j,'end']
-			temp.appe
+			temp.append(j)
+	
