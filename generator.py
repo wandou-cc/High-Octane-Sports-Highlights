@@ -60,4 +60,7 @@ while(i<n):
 		else:
 			i=j
 			break  
-df.drop(temp,axis=0,inplace=Tru
+df.drop(temp,axis=0,inplace=True)
+
+
+#Ex
