@@ -57,4 +57,5 @@ while(i<n):
 			df.loc[i,'end'] = df.loc[j,'end']
 			temp.append(j)
 			j=j+1
-		el
+		else:
+			
