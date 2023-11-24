@@ -59,4 +59,4 @@ while(i<n):
 			j=j+1
 		else:
 			i=j
-	
+			break 
