@@ -58,4 +58,5 @@ while(i<n):
 			temp.append(j)
 			j=j+1
 		else:
-			
+			i=j
+	
