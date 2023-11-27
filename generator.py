@@ -63,4 +63,4 @@ while(i<n):
 df.drop(temp,axis=0,inplace=True)
 
 
-#Ex
+#Extracti
