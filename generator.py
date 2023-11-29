@@ -63,4 +63,4 @@ while(i<n):
 df.drop(temp,axis=0,inplace=True)
 
 
-#Extracting subclips fro
+#Extracting subclips from the v
