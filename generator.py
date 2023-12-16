@@ -64,4 +64,4 @@ df.drop(temp,axis=0,inplace=True)
 
 
 #Extracting subclips from the video file on the basis of energy profile obtained from audio file.
-start=np.array(d
+start=np.array(df['st
