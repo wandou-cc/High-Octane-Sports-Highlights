@@ -67,3 +67,4 @@ df.drop(temp,axis=0,inplace=True)
 start=np.array(df['start'])
 end=np.array(df['end'])
 
+#Crea
