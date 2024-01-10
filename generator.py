@@ -67,4 +67,5 @@ df.drop(temp,axis=0,inplace=True)
 start=np.array(df['start'])
 end=np.array(df['end'])
 
-#Create temporary folder for storing subclips generated. This folder will be deleted later after highlights are gener
+#Create temporary folder for storing subclips generated. This folder will be deleted later after highlights are generated. 
+c
