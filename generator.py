@@ -69,4 +69,5 @@ end=np.array(df['end'])
 
 #Create temporary folder for storing subclips generated. This folder will be deleted later after highlights are generated. 
 cwd=os.getcwd()
-sub_folder=os.path.join(cwd,"Subclips"
+sub_folder=os.path.join(cwd,"Subclips")
+if os.
