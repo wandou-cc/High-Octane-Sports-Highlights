@@ -71,4 +71,4 @@ end=np.array(df['end'])
 cwd=os.getcwd()
 sub_folder=os.path.join(cwd,"Subclips")
 if os.path.exists(sub_folder):
-	shutil.rmtree(
+	shutil.rmtree(sub_folder
