@@ -72,4 +72,4 @@ cwd=os.getcwd()
 sub_folder=os.path.join(cwd,"Subclips")
 if os.path.exists(sub_folder):
 	shutil.rmtree(sub_folder)
-	path=os.m
+	path=os.mkdir(
