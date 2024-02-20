@@ -74,4 +74,4 @@ if os.path.exists(sub_folder):
 	shutil.rmtree(sub_folder)
 	path=os.mkdir(sub_folder)
 else:
-	path=os.mkdir(sub_fol
+	path=os.mkdir(sub_folder)
