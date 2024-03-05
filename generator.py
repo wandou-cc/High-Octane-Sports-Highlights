@@ -77,4 +77,4 @@ else:
 	path=os.mkdir(sub_folder)
 #print(sub_folder,type(sub_folder))
 
-#Extract moments from videos to be added in hig
+#Extract moments from videos to be added in highlight
