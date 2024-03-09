@@ -79,4 +79,4 @@ else:
 
 #Extract moments from videos to be added in highlight
 print(df)
-for i i
+for i in range(l
