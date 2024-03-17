@@ -80,4 +80,5 @@ else:
 #Extract moments from videos to be added in highlight
 print(df)
 for i in range(len(df)):
-	if(i!=0)
+	if(i!=0):
+		start
