@@ -81,4 +81,4 @@ else:
 print(df)
 for i in range(len(df)):
 	if(i!=0):
-		start_lim = sta
+		start_lim = start[i]
