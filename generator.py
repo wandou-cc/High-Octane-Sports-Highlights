@@ -81,4 +81,4 @@ else:
 print(df)
 for i in range(len(df)):
 	if(i!=0):
-		start_lim = start[i] - 5  #Assuming that noise starts after the shot, so set start point as t-5 seconds 
+		start_lim = start[i] - 5  #Assuming that noise starts after the shot, so set start point as t-5 seconds to includ
