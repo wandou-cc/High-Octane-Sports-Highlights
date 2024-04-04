@@ -84,4 +84,4 @@ for i in range(len(df)):
 		start_lim = start[i] - 5  #Assuming that noise starts after the shot, so set start point as t-5 seconds to include the shot/wicket action.
 	else:
 		start_lim = start[i] 
-	end_lim  
+	end_lim   = end[i]
