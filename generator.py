@@ -90,4 +90,4 @@ for i in range(len(df)):
 
 files=os.listdir(sub_folder)
 files=[sub_folder+"/highlight" + str(i+1) + ".mp4" for i in range(len(df))]
-#prin
+#print(file
