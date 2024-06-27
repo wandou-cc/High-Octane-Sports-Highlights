@@ -92,4 +92,4 @@ files=os.listdir(sub_folder)
 files=[sub_folder+"/highlight" + str(i+1) + ".mp4" for i in range(len(df))]
 #print(files)
 final_clip=concatenate_videoclips([VideoFileClip(i) for i in files])
-final_clip.write_videofile("KKRvsRCB_Highlights.mp4") #Enter the desired ou
+final_clip.write_videofile("KKRvsRCB_Highlights.mp4") #Enter the desired output high
