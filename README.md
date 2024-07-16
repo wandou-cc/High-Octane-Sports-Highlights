@@ -21,3 +21,11 @@ While we may perceive the creation of these videos to be a domain of advanced te
 The key motivation behind this project was to familiarize myself with video and audio processing libraries in Python3.6.
 
 ### TODOs:
+
+* [ ] Develop a GUI to upload a full video and press download for highlights.
+* [ ] Automatically generate the audio file for the video file uploaded by user.
+* [ ] Make the variable parameters like sample rate,filename,chunk size, threshold, etc. settable via Terminal/GUI.
+* [ ] Reduce the latency time by splitting the video and then parallelizing the process of highlight extraction.
+* [x] Automatically delete the highlight subclips being generated.
+
+For a sample video and audio, please click [here](https://drive.google.com/open?id=1bWfQat17fmmpBo92w698C2sxRxBEztnk). This contains two match video and audio files and also the script generated highlights:
