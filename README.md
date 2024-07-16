@@ -29,3 +29,12 @@ The key motivation behind this project was to familiarize myself with video and 
 * [x] Automatically delete the highlight subclips being generated.
 
 For a sample video and audio, please click [here](https://drive.google.com/open?id=1bWfQat17fmmpBo92w698C2sxRxBEztnk). This contains two match video and audio files and also the script generated highlights:
+
+1. India vs Australia 2007 World Cup Indian Powerplay.
+2. KKR vs RCB (RCB 49 All out).
+
+## To run this project:
+* [Fork](https://github.com/wandou-cc/High-Octane-Sports-Highlights) this Repository.
+* Open Terminal and enter the folder 'High-Octane-Sports-Highlights'.
+* `pip3 install -r requirements.txt`
+* Download the full match video and it's audio file in the present working directory.
