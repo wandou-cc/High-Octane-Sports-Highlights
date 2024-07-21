@@ -38,3 +38,14 @@ For a sample video and audio, please click [here](https://drive.google.com/open?
 * Open Terminal and enter the folder 'High-Octane-Sports-Highlights'.
 * `pip3 install -r requirements.txt`
 * Download the full match video and it's audio file in the present working directory.
+* Set variables for input audio and video filenames and desired output filename in code.
+* Run `python3 generator.py`
+* Wait while the highlights file is being prepared! :alarm_clock:
+* And there you have it! Your personalized highlights package is ready. :fire:
+
+#### This project being open-source invites contributors for further enhancements and capabilities. Feel free to contribute:
+* [Fork](https://github.com/wandou-cc/High-Octane-Sports-Highlights) this Repository.
+* Clone your Fork on a different branch:
+	* `git clone -b <name-of-branch> https://github.com/wandou-cc/High-Octane-Sports-Highlights.git`
+* After adding any feature:
+	* Navigate to your fork and create a pull request.
