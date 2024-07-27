@@ -49,3 +49,9 @@ For a sample video and audio, please click [here](https://drive.google.com/open?
 	* `git clone -b <name-of-branch> https://github.com/wandou-cc/High-Octane-Sports-Highlights.git`
 * After adding any feature:
 	* Navigate to your fork and create a pull request.
+	* I will test your modifications and merge changes.
+
+This project was developed `in my free time under 4 hours with no pre-preparation.`
+
+---
+<h3 align="center"><b>Developed with :heart: by <a href="https://github.com/wandou-cc">Wandou CC</a> </b></h1>
